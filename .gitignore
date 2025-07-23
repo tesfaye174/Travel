@@ -1,0 +1,11 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# Android Studio files
+.idea/
+app/build/
+
+# Cache files
+.kotlin/
